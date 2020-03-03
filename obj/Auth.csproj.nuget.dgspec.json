@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Verso-Back-End/Auth.csproj": {}
+    "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Back-end/Auth.csproj": {}
   },
   "projects": {
-    "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Verso-Back-End/Auth.csproj": {
+    "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Back-end/Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Verso-Back-End/Auth.csproj",
+        "projectUniqueName": "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Back-end/Auth.csproj",
         "projectName": "Auth",
-        "projectPath": "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Verso-Back-End/Auth.csproj",
+        "projectPath": "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Back-end/Auth.csproj",
         "packagesPath": "/Users/yafimvainilovich/.nuget/packages/",
-        "outputPath": "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Verso-Back-End/obj/",
+        "outputPath": "/Users/yafimvainilovich/Desktop/Verso-Tech-Stuff/FULL/Back-end/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -41,7 +41,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
